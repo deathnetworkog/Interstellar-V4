@@ -1,5 +1,5 @@
 {
-  "name": "bio-site",
+  "name": "site",
   "version": "4.5.0",
   "description": "https://discord.gg/gointerstellar",
   "type": "module",
@@ -11,9 +11,9 @@
     "start": "node index.js"
   },
   "keywords": [
-    "proxy"
+    "bio"
   ],
-  "author": "",
+  "author": "me",
   "license": "GPL-3.0-or-later",
   "dependencies": {
     "@titaniumnetwork-dev/ultraviolet": "^1.0.10",
